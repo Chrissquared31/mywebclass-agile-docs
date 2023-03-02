@@ -4,7 +4,7 @@ User Story: As a web developer, I want to develop a website template prototype t
 
 Description: Develop a website template prototype that complies with all relevant legal and technical requirements, including accessibility, privacy, and security regulations. Optimize the prototype for search engines, including proper use of headings, meta descriptions, and structured data. Test the prototype to ensure it loads quickly and performs well on different devices.
 
-Effort Estimate: 40 hours
+Effort Estimate: 2 hours
 
 Assigned To: Chris
 
