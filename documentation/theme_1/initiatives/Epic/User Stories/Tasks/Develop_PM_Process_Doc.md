@@ -12,7 +12,7 @@ should include communication channels that allow team members to easily collabor
 emails, and a messaging platform. The task is dependent on gathering input from all team members to ensure 
 that their roles and responsibilities are accurately reflected in the document.
 
-Effort Estimate: 10 hours
+Effort Estimate: 2 hours
 
 Assigned To: Chris
 
