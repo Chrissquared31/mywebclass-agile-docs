@@ -1,4 +1,4 @@
-EPIC: "MyWebClass Project Management"
+# EPIC: "MyWebClass Project Management"
 
 Description: This epic will focus on developing the necessary project management processes and tools to ensure effective collaboration and coordination among team members, and timely delivery of project milestones.
 
