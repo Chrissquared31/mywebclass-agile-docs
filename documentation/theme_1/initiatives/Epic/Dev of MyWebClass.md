@@ -1,4 +1,4 @@
-EPIC: Development of Basic Website Template for MyWebClass.org
+# EPIC: Development of Basic Website Template for MyWebClass.org
 
 Description: Develop a basic website template that meets legal and technical requirements and is optimized for search engines to provide a solid foundation for ongoing development and improvement of the website.
 
